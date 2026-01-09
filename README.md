@@ -1,3 +1,3 @@
 # singlepageapp
 my info
-this is my personal information
+this is my personal 
